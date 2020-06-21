@@ -1,0 +1,1 @@
+obj_dir/Vdsp.cpp obj_dir/Vdsp.h obj_dir/Vdsp.mk obj_dir/Vdsp__Syms.cpp obj_dir/Vdsp__Syms.h obj_dir/Vdsp__Trace.cpp obj_dir/Vdsp__Trace__Slow.cpp obj_dir/Vdsp__ver.d obj_dir/Vdsp_classes.mk  : /usr/local/bin/verilator_bin /usr/local/bin/verilator_bin basic_bits.sv dsp.v 
